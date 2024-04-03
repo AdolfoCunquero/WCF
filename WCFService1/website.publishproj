@@ -21,7 +21,7 @@ Copyright (C) Microsoft Corporation. Todos los derechos reservados.
     <ProjectGuid>{8f4553c0-d34b-4513-a3a6-dea7584f8546}</ProjectGuid>
     <SourceWebPhysicalPath>$(MSBuildThisFileDirectory)</SourceWebPhysicalPath>
     <SourceWebVirtualPath>/WCFService1</SourceWebVirtualPath>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <SourceWebProject></SourceWebProject>
     <SourceWebMetabasePath></SourceWebMetabasePath>
   </PropertyGroup>
